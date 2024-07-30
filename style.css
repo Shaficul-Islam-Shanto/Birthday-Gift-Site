@@ -67,13 +67,17 @@ p {
     
 }
 #finalimg{
-    margin: 0px auto;
+    margin: 0px auto 50px auto;
     background-image: url("images/gift-cover.jpg");
     width: 400px;
     height: 200px;
     border: 6px solid white;
     border-radius: 10px;
     background-size:cover;
+}
+.wishingpart{
+    margin: 0px auto 30px auto;
+    width: 400px;
 }
 .fimg:hover{
     background-image: url("images/happy.gif");
